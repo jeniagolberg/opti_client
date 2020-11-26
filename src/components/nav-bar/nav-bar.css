@@ -1,0 +1,23 @@
+.nav-bar-container{
+    height: 9vh;
+    background: darkgoldenrod;
+    display: flex;
+}
+
+.left-pane{
+    width: 50%;
+    display: flex;
+}
+
+.right-pane{
+    width: 50%;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+
+.button{
+    border: 0.7 solid red;
+    background: darkslategray;
+    font: white;
+}

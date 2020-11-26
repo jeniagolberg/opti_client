@@ -1,0 +1,8 @@
+.main-page-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    overflow: scroll;
+    box-shadow: 0px 0px 23px -5px red;
+    background: #ff00003d;
+}
